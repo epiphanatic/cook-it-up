@@ -67,7 +67,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Simple,
     imageUrl:
-        'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_oder_Grana_Padano.jpg',
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fsphagetti.jpg?alt=media&token=039c56af-aa96-4703-9b3f-f8e102fa5f86',
     duration: 20,
     ingredients: [
       '4 Tomatoes',
@@ -100,7 +100,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg',
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Ftoast.jpg?alt=media&token=36677c0d-7d8e-44c4-8861-e8ec313aea9b',
     duration: 10,
     ingredients: [
       '1 Slice White Bread',
@@ -129,7 +129,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Pricey,
     complexity: Complexity.Simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2014/10/23/18/05/burger-500054_1280.jpg',
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fburger.jpg?alt=media&token=e64fd0b0-1048-4948-b43e-a3e4e1d58ad3',
     duration: 45,
     ingredients: [
       '300g Cattle Hack',
@@ -160,7 +160,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Luxurious,
     complexity: Complexity.Challenging,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/03/31/19/29/schnitzel-3279045_1280.jpg',
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fschnitzel.jpg?alt=media&token=d0cb283e-6b85-4293-a619-cb1882dab272',
     duration: 60,
     ingredients: [
       '8 Veal Cutlets',
@@ -197,7 +197,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Luxurious,
     complexity: Complexity.Simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2016/10/25/13/29/smoked-salmon-salad-1768890_1280.jpg',
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fsmoked-salmon-salad.jpg?alt=media&token=0fe7e27e-d0f9-4c6e-be88-5c75a902cb5e',
     duration: 15,
     ingredients: [
       'Arugula',
@@ -232,7 +232,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Hard,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2017/05/01/05/18/pastry-2274750_1280.jpg',
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fmousse.jpg?alt=media&token=fecdd186-356b-4b79-b97e-89be0b539409',
     duration: 240,
     ingredients: [
       '4 Sheets of Gelatine',
@@ -267,7 +267,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/07/10/21/23/pancake-3529653_1280.jpg',
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fpancake.jpg?alt=media&token=fc0c8c18-33a9-4fa2-b003-855c059e3f7d',
     duration: 20,
     ingredients: [
       '1 1/2 Cups all-purpose Flour',
@@ -298,7 +298,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Pricey,
     complexity: Complexity.Challenging,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/06/18/16/05/indian-food-3482749_1280.jpg',
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Findian-curry.jpg?alt=media&token=80c5f30d-c6bd-4f07-afce-593d8dc17334',
     duration: 35,
     ingredients: [
       '4 Chicken Breasts',
@@ -331,7 +331,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Affordable,
     complexity: Complexity.Hard,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2014/08/07/21/07/souffle-412785_1280.jpg',
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fsouffle.jpg?alt=media&token=3a6dc3b9-41f0-437c-ae98-e625a8205bad',
     duration: 45,
     ingredients: [
       '1 Teaspoon melted Butter',
@@ -382,7 +382,7 @@ const DUMMY_MEALS = const [
     affordability: Affordability.Luxurious,
     complexity: Complexity.Simple,
     imageUrl:
-        'https://cdn.pixabay.com/photo/2018/04/09/18/26/asparagus-3304997_1280.jpg',
+        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fasparagus.jpg?alt=media&token=0119675f-9b30-4e0f-9992-5b3470b9d61e',
     duration: 30,
     ingredients: [
       'White and Green Asparagus',
