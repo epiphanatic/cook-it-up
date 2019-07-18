@@ -1,6 +1,8 @@
 # cook_it_up
 
-A Flutter demo app to record personal expenses and see trends in spending over time via a chart.
+A demo app written in Flutter to show recipes based on different categories.
+
+Users can filter listings and save filters to display only recipes that they are interested in and not show those that they are not. They can also save favorites and tab between favorites and all listings.
 
 ## Demo
 
