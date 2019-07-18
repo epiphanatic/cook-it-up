@@ -66,8 +66,7 @@ const DUMMY_MEALS = const [
     title: 'Spaghetti with Tomato Sauce',
     affordability: Affordability.Affordable,
     complexity: Complexity.Simple,
-    imageUrl:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fsphagetti.jpg?alt=media&token=039c56af-aa96-4703-9b3f-f8e102fa5f86',
+    imageUrl: './assets/images/meals/sphagetti.jpg',
     duration: 20,
     ingredients: [
       '4 Tomatoes',
@@ -99,8 +98,7 @@ const DUMMY_MEALS = const [
     title: 'Toast Hawaii',
     affordability: Affordability.Affordable,
     complexity: Complexity.Simple,
-    imageUrl:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Ftoast.jpg?alt=media&token=36677c0d-7d8e-44c4-8861-e8ec313aea9b',
+    imageUrl: 'assets/images/meals/toast.jpg',
     duration: 10,
     ingredients: [
       '1 Slice White Bread',
@@ -128,8 +126,7 @@ const DUMMY_MEALS = const [
     title: 'Classic Hamburger',
     affordability: Affordability.Pricey,
     complexity: Complexity.Simple,
-    imageUrl:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fburger.jpg?alt=media&token=e64fd0b0-1048-4948-b43e-a3e4e1d58ad3',
+    imageUrl: 'assets/images/meals/burger.jpg',
     duration: 45,
     ingredients: [
       '300g Cattle Hack',
@@ -159,8 +156,7 @@ const DUMMY_MEALS = const [
     title: 'Wiener Schnitzel',
     affordability: Affordability.Luxurious,
     complexity: Complexity.Challenging,
-    imageUrl:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fschnitzel.jpg?alt=media&token=d0cb283e-6b85-4293-a619-cb1882dab272',
+    imageUrl: 'assets/images/meals/schnitzel.jpg',
     duration: 60,
     ingredients: [
       '8 Veal Cutlets',
@@ -196,8 +192,7 @@ const DUMMY_MEALS = const [
     title: 'Salad with Smoked Salmon',
     affordability: Affordability.Luxurious,
     complexity: Complexity.Simple,
-    imageUrl:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fsmoked-salmon-salad.jpg?alt=media&token=0fe7e27e-d0f9-4c6e-be88-5c75a902cb5e',
+    imageUrl: 'assets/images/meals/smoked-salmon-salad.jpg',
     duration: 15,
     ingredients: [
       'Arugula',
@@ -231,8 +226,7 @@ const DUMMY_MEALS = const [
     title: 'Delicious Orange Mousse',
     affordability: Affordability.Affordable,
     complexity: Complexity.Hard,
-    imageUrl:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fmousse.jpg?alt=media&token=fecdd186-356b-4b79-b97e-89be0b539409',
+    imageUrl: 'assets/images/meals/mousse.jpg',
     duration: 240,
     ingredients: [
       '4 Sheets of Gelatine',
@@ -266,8 +260,7 @@ const DUMMY_MEALS = const [
     title: 'Pancakes',
     affordability: Affordability.Affordable,
     complexity: Complexity.Simple,
-    imageUrl:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fpancake.jpg?alt=media&token=fc0c8c18-33a9-4fa2-b003-855c059e3f7d',
+    imageUrl: 'assets/images/meals/pancake.jpg',
     duration: 20,
     ingredients: [
       '1 1/2 Cups all-purpose Flour',
@@ -297,8 +290,7 @@ const DUMMY_MEALS = const [
     title: 'Creamy Indian Chicken Curry',
     affordability: Affordability.Pricey,
     complexity: Complexity.Challenging,
-    imageUrl:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Findian-curry.jpg?alt=media&token=80c5f30d-c6bd-4f07-afce-593d8dc17334',
+    imageUrl: 'assets/images/meals/indian-curry.jpg',
     duration: 35,
     ingredients: [
       '4 Chicken Breasts',
@@ -330,8 +322,7 @@ const DUMMY_MEALS = const [
     title: 'Chocolate Souffle',
     affordability: Affordability.Affordable,
     complexity: Complexity.Hard,
-    imageUrl:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fsouffle.jpg?alt=media&token=3a6dc3b9-41f0-437c-ae98-e625a8205bad',
+    imageUrl: 'assets/images/meals/souffle.jpg',
     duration: 45,
     ingredients: [
       '1 Teaspoon melted Butter',
@@ -381,8 +372,7 @@ const DUMMY_MEALS = const [
     title: 'Asparagus Salad with Cherry Tomatoes',
     affordability: Affordability.Luxurious,
     complexity: Complexity.Simple,
-    imageUrl:
-        'https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/meals-demo-images%2Fasparagus.jpg?alt=media&token=0119675f-9b30-4e0f-9992-5b3470b9d61e',
+    imageUrl: 'assets/images/meals/asparagus.jpg',
     duration: 30,
     ingredients: [
       'White and Green Asparagus',
