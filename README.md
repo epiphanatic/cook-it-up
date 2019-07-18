@@ -6,7 +6,7 @@ Users can filter listings and save filters to display only recipes that they are
 
 ## Demo
 
-![Alt Text](https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/mealsdemo.gif?alt=media&token=29b4d3f6-5dd5-41b8-be13-7137e75d57ce)
+![Alt Text](https://firebasestorage.googleapis.com/v0/b/portfolio-ba483.appspot.com/o/mealsdemooptimized.gif?alt=media&token=39f510f1-5a82-43cc-b755-48e36be3ec09)
 
 ## Goolge Play Store
 
