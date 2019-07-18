@@ -27,6 +27,13 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: "^0.7.2"
+
+flutter_icons:
+  android: "launcher_icon" 
+  ios: true
+  image_path_android: "assets/icon/icon_round.png"
+  image_path_ios: "assets/icon/icon_square.png"
 
 
 # For information on the generic Dart part of this file, see the
@@ -41,7 +48,8 @@ flutter:
   uses-material-design: true
 
   # To add assets to your application, add an assets section, like this:
-  # assets:
+  assets:
+    - assets/icon/
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
 
