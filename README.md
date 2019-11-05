@@ -8,10 +8,6 @@ Users can filter listings and save filters to display only recipes that they are
 
 ![Alt Text](https://firebasestorage.googleapis.com/v0/b/bounti-dev-34f18.appspot.com/o/github_and_other_demos%2Fmealsdemooptimized.gif?alt=media&token=95a522bd-41cc-4ec2-8964-598d7dc32bc3)
 
-## Goolge Play Store
-
-You can download the app from the playstore [here](https://play.google.com/store/apps/details?id=space.amnion.flutter_meals_demo).
-
 ## Code Dependencies
 
 If you wish to run this code on your local machine, Flutter needs to be installed.
